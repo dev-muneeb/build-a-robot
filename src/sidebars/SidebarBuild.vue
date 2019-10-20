@@ -1,6 +1,6 @@
 <template>
   <div class="sidebar">
-    Build Sidebar
+    Build Robot
   </div>
 </template>
 
